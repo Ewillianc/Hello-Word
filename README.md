@@ -1,2 +1,3 @@
 # Hello Word!!
- primeiro repositorio versionado
+ primeiro repositorio versionado.
+Apenas meus materiais de estudo.
